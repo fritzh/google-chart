@@ -23,8 +23,8 @@
     "google"
   ],
   "dependencies": {
-    "google-apis": "GoogleWebComponents/google-apis#^1.0.0",
-    "iron-ajax": "PolymerElements/iron-ajax#2.0=prevoew",
+    "google-apis": "GoogleWebComponents/google-apis#2.0-preview",
+    "iron-ajax": "PolymerElements/iron-ajax#2.0-prevoew",
     "polymer": "Polymer/polymer#^v2.0.0-rc.3",
     "promise-polyfill": "polymerlabs/promise-polyfill#2.0-preview"
   },
